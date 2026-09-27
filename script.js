@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://YOUR-RENDER-SERVICE.onrender.com";
+const BACKEND_URL = "https://cmu-sidequest-backend.onrender.com";
 
 const statusEl = document.querySelector("#status");
 const resultEl = document.querySelector("#result");
